@@ -1,0 +1,6 @@
+framework module Pods_claneapp {
+  umbrella header "Pods-claneapp-umbrella.h"
+
+  export *
+  module * { export * }
+}

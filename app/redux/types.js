@@ -1,0 +1,2 @@
+export const GET_SHOWMODAL = 'GET_SHOWMODAL';
+export const GET_SHOWLOADER = 'GET_SHOWLOADER';

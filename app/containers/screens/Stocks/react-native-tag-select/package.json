@@ -1,0 +1,69 @@
+{
+  "_from": "react-native-tag-select@^2.0.0",
+  "_id": "react-native-tag-select@2.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-ys0A2MKZ8CLQ6QYBnnuyg1/MIsNVmRSSJpPFD3E+tTR4FTaLYNRiTIaBy1Wy77feBaYeDfN7UG2K5jr31+Iq0A==",
+  "_location": "/react-native-tag-select",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "react-native-tag-select@^2.0.0",
+    "name": "react-native-tag-select",
+    "escapedName": "react-native-tag-select",
+    "rawSpec": "^2.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^2.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-tag-select/-/react-native-tag-select-2.0.0.tgz",
+  "_shasum": "b02766526a5b2663a3392478dc500616f019cbf1",
+  "_spec": "react-native-tag-select@^2.0.0",
+  "_where": "/Volumes/DATA/Projects/ReactNative/Clane/Clane_Stock_Release",
+  "author": {
+    "name": "Rafael Michels Motta"
+  },
+  "bugs": {
+    "url": "https://github.com/rafaelmotta/react-native-tag-select/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  },
+  "deprecated": false,
+  "description": "[![npm version](https://badge.fury.io/js/react-native-tag-select.svg)](https://badge.fury.io/js/react-native-tag-select)",
+  "devDependencies": {
+    "babel-eslint": "7",
+    "eslint": "3.x",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.7.0",
+    "eslint-plugin-react": "^7.7.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "prettier": "^1.11.1",
+    "react": "16.2.0",
+    "react-addons-test-utils": "^15.6.2",
+    "react-dom": "^16.2.0",
+    "react-test-renderer": "16.2.0"
+  },
+  "homepage": "https://github.com/rafaelmotta/react-native-tag-select#readme",
+  "keywords": [
+    "react",
+    "native"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "react-native-tag-select",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelmotta/react-native-tag-select.git"
+  },
+  "scripts": {
+    "format": "yarn prettier --config .prettierrc --write \"src/*/*.js\"",
+    "lint": "eslint ."
+  },
+  "version": "2.0.0"
+}

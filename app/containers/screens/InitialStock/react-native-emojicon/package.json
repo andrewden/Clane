@@ -1,0 +1,56 @@
+{
+  "_from": "react-native-emojicon",
+  "_id": "react-native-emojicon@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-PUS1Q7rjLIoUpMM5wYTgyaAfI8A=",
+  "_location": "/react-native-emojicon",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-emojicon",
+    "name": "react-native-emojicon",
+    "escapedName": "react-native-emojicon",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-emojicon/-/react-native-emojicon-1.0.0.tgz",
+  "_shasum": "3d44b543bae32c8a14a4c339c184e0c9a01f23c0",
+  "_spec": "react-native-emojicon",
+  "_where": "/Volumes/DATA/Projects/ReactNative/Clane/Clane_News_CBN/claneapp",
+  "author": {
+    "name": "Shivek Khurana"
+  },
+  "bugs": {
+    "url": "https://github.com/shivekkhurana/react-native-emojicon/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Emoji icons for your react native projects.",
+  "homepage": "https://github.com/shivekkhurana/react-native-emojicon#readme",
+  "keywords": [
+    "emoji",
+    "icons",
+    "react-native",
+    "react",
+    "ui",
+    "ux",
+    "icon"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-emojicon",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivekkhurana/react-native-emojicon.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}

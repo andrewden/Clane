@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <!--<style name="AppTheme" parent="Theme.ReactNative.AppCompat.Light.NoActionBar.FullScreen">-->
+        <!--&lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+    <!--</style>-->
+    <!--<style name="AppTheme.Launcher">-->
+        <!--<item name="android:windowBackground">@drawable/launch_screen</item>-->
+    <!--</style>-->
+
+</resources>

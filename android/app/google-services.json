@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "566985498536",
+    "firebase_url": "https://clane-dev.firebaseio.com",
+    "project_id": "clane-dev",
+    "storage_bucket": "clane-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566985498536:android:fd9edcb308cc09e9",
+        "android_client_info": {
+          "package_name": "com.clanedev.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566985498536-d080cujsg0ptc3ffu2iruo5ehtq16bpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3xVZz6bNQuijQr2QAMA-loG3lyrWGJwI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
